@@ -30,6 +30,6 @@ app:
     # BCrypt of 'admin123' generated with strength 10
     password: $2a$10$r6aEkw7J5k2fU6eM1F4XwOm2y8o4TQkzL7kHnYt6mJdP6uYg7tJr2
   jwt:
-    secret: "ThisIsAVerySecretSigningKeyForJWTs-ChangeMe-ThisIsAVerySecretSigningKeyForJWTs-ChangeMe"
+    secret: "Yk9pN3aR6uV1xQ8mB2jH5sT9wL3eR7pC1nV6yT4xQ2M="
     issuer: "brokerage-app"
     ttl-minutes: 120
